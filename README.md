@@ -1,2 +1,41 @@
-# -Weather-Squirrel-Data-Analysis-Project
-This Python project demonstrates data analysis using CSV files and the Pandas library. It reads weather and squirrel census datasets, performs calculations like averages and maximum values, converts temperatures, filters data, counts squirrel fur colors, and exports results into new CSV files for easy analysis and reporting.
+# Weather & Squirrel Data Analysis Project
+
+This project demonstrates Python file handling, CSV processing, and data analysis using the `csv` module and `pandas` library. It includes reading weather data, calculating statistics, creating DataFrames, converting temperatures, and analyzing squirrel census data by fur color.
+
+---
+
+## 📌 Features
+
+- Read CSV files using Python
+- Process weather data
+- Calculate average and maximum temperatures
+- Convert temperatures to Fahrenheit
+- Create DataFrames from scratch
+- Export data to CSV files
+- Analyze squirrel census datasets
+- Count squirrels based on fur color
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- CSV Module
+- Pandas Library
+
+---
+
+## 📂 Files Used
+
+- `weather_data.csv`
+- `2018_Central_Park_Squirrel_Census.csv`
+- `new_file.csv`
+- `squirrel_count.csv`
+
+---
+
+## 🚀 How to Run
+
+```bash
+pip install pandas
+python main.py
